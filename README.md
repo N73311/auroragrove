@@ -1,8 +1,7 @@
 # Design Bootstrap
-[![GitHub Release](https://img.shields.io/github/release/zjayers/design.bootstrap.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/design.bootstrap.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/design.bootstrap.svg?style=flat)](https://github.com/zjayers/design.bootstrap/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/design.bootstrap.svg?style=flat)](https://github.com/zjayers/design.bootstrap/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/design.bootstrap.svg?maxAge=25000)](https://github.com/zjayers/design.bootstrap/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/design.bootstrap/blob/master/LICENSEs)
 
 ## Description
 
