@@ -25,6 +25,7 @@ jobs:
             --exclude ".git/*" \
             --exclude ".github/*" \
             --exclude "scss/*" \
+            --exclude "node_modules/**" \
             --exclude "README.md" \
             --exclude "LICENSE" \
             --exclude "_config.yml"
