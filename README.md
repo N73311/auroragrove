@@ -1,20 +1,66 @@
-# Design Bootstrap
-[![GitHub Release](https://img.shields.io/github/release/zjayers/design.bootstrap.svg?style=flat)](https://github.com/zjayers/design.bootstrap/releases)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/design.bootstrap.svg?style=flat)](https://github.com/zjayers/design.bootstrap/pulls)
-[![Issues](https://img.shields.io/github/issues-raw/zjayers/design.bootstrap.svg?maxAge=25000)](https://github.com/zjayers/design.bootstrap/issues)
+# Aurora Grove
 
-## Description
+A modern camping website built with Bootstrap 4 and custom SCSS styling.
 
-> Work in progress
+[View Portfolio](https://zachayers.io) | [Live Demo](https://www.auroragrove.zachayers.io)
 
-## Features
+## About
 
-> Work in progress
+Aurora Grove is a responsive camping website showcasing advanced Bootstrap components, custom theme customization, and interactive elements. Features a complete camping experience website with booking forms, image galleries, and newsletter signup.
 
-## Installation
+## Built With
 
-> Work in progress
+- HTML5
+- Bootstrap 4
+- SCSS/Sass
+- JavaScript (jQuery)
+- Font Awesome 5
+- Google Fonts
 
-## Usage
+## Getting Started
 
-> Work in progress
+### Prerequisites
+
+- Modern web browser
+- SASS compiler (optional for customization)
+
+### Installation
+
+```bash
+git clone https://github.com/N73311/auroragrove.git
+cd auroragrove
+```
+
+### Development
+
+To customize styles:
+
+```bash
+npm install -g sass
+sass --watch scss:css
+```
+
+Open `index.html` in a browser or use a local server:
+
+```bash
+python -m http.server 8000
+```
+
+## Project Structure
+
+```
+auroragrove/
+├── css/           # Compiled CSS
+├── scss/          # SCSS source files
+├── images/        # Image assets
+├── index.html     # Main HTML
+└── README.md
+```
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for details.
+
+## Author
+
+Zachariah Ayers - [zachayers.io](https://zachayers.io)
